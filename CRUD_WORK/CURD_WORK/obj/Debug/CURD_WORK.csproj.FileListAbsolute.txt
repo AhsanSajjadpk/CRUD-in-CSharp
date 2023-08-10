@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\CURD_WORK\CURD_WORK\bin\Debug\CURD_WORK.exe.config
+C:\Users\USER\source\repos\CURD_WORK\CURD_WORK\bin\Debug\CURD_WORK.exe
+C:\Users\USER\source\repos\CURD_WORK\CURD_WORK\bin\Debug\CURD_WORK.pdb
+C:\Users\USER\source\repos\CURD_WORK\CURD_WORK\obj\Debug\CURD_WORK.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CURD_WORK\CURD_WORK\obj\Debug\CURD_WORK.Form1.resources
+C:\Users\USER\source\repos\CURD_WORK\CURD_WORK\obj\Debug\CURD_WORK.Properties.Resources.resources
+C:\Users\USER\source\repos\CURD_WORK\CURD_WORK\obj\Debug\CURD_WORK.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CURD_WORK\CURD_WORK\obj\Debug\CURD_WORK.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CURD_WORK\CURD_WORK\obj\Debug\CURD_WORK.exe
+C:\Users\USER\source\repos\CURD_WORK\CURD_WORK\obj\Debug\CURD_WORK.pdb
